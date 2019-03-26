@@ -1,5 +1,5 @@
 # SIMS
-PROGRAM:
+PROGRAM for quick sort:
 
 #include <stdio.h>
 void quick_sort(int[],int,int);
